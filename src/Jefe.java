@@ -1,4 +1,4 @@
-public class Jefe {
+public class Jefe extends Empleado {
     //Atributos
     private int telefono;
     //Constructor
